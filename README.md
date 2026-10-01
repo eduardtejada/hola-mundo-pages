@@ -4,6 +4,13 @@ Este proyecto contiene una página web simple y elegante de tipo **"Hola Mundo"*
 
 ---
 
+## 🔗 Enlaces del Proyecto
+
+- **Repositorio de GitHub:** [https://github.com/eduardtejada/hola-mundo-pages](https://github.com/eduardtejada/hola-mundo-pages)
+- **Página Web en Vivo (GitHub Pages):** [https://eduardtejada.github.io/hola-mundo-pages/](https://eduardtejada.github.io/hola-mundo-pages/)
+
+---
+
 ## 🚀 Características
 
 - **Diseño Moderno:** Interfaz estilizada con efectos de desenfoque de fondo (glassmorphism), modo oscuro, fuentes modernas y tipografía responsiva.
