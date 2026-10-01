@@ -11,21 +11,6 @@ Este proyecto contiene una página web simple y elegante de tipo **"Hola Mundo"*
 
 ---
 
-## Características
-
-- **Diseño Limpio:** Interfaz minimalista con modo oscuro, fuentes modernas y diseño responsivo.
-- **CI/CD Integrado:** Flujo de trabajo de GitHub Actions (`.github/workflows/deploy.yml`) para despliegue continuo automático.
-- **Hosting en la Nube:** Alojamiento gratuito y seguro con certificado SSL (HTTPS) a través de GitHub Pages.
-
----
-
-## Tecnologías Utilizadas
-
-- **HTML5 & CSS3**
-- **GitHub Actions & GitHub Pages**
-
----
-
 ## Automatización del Despliegue
 
 Cada vez que realizas un cambio en el código y ejecutas:
@@ -39,7 +24,3 @@ git push origin main
 El pipeline de GitHub Actions se activa automáticamente y publica la nueva versión en GitHub Pages.
 
 ---
-
-## Licencia
-
-MIT
