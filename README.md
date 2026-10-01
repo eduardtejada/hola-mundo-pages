@@ -1,35 +1,34 @@
-# 🌐 Hola Mundo - Despliegue Automático en la Nube
+# Hola Mundo - Despliegue Automático en la Nube
 
-Este proyecto contiene una página web simple y elegante de tipo **"Hola Mundo"** configurada para desplegarse automáticamente en la nube (mediante **GitHub Pages** o **Cloudflare Pages**) cada vez que se realizan y envían cambios (`git push`) al repositorio de GitHub.
+Este proyecto contiene una página web simple y elegante de tipo **"Hola Mundo"** configurada para desplegarse automáticamente en la nube mediante **GitHub Pages** cada vez que se realizan y envían cambios (`git push`) al repositorio de GitHub.
 
 ---
 
-## 🔗 Enlaces del Proyecto
+## Enlaces del Proyecto
 
 - **Repositorio de GitHub:** [https://github.com/eduardtejada/hola-mundo-pages](https://github.com/eduardtejada/hola-mundo-pages)
 - **Página Web en Vivo (GitHub Pages):** [https://eduardtejada.github.io/hola-mundo-pages/](https://eduardtejada.github.io/hola-mundo-pages/)
 
 ---
 
-## 🚀 Características
+## Características
 
-- **Diseño Moderno:** Interfaz estilizada con efectos de desenfoque de fondo (glassmorphism), modo oscuro, fuentes modernas y tipografía responsiva.
+- **Diseño Limpio:** Interfaz minimalista con modo oscuro, fuentes modernas y diseño responsivo.
 - **CI/CD Integrado:** Flujo de trabajo de GitHub Actions (`.github/workflows/deploy.yml`) para despliegue continuo automático.
-- **Hosting en la Nube:** Alojamiento gratuito, ultrarrápido y seguro con certificado SSL (HTTPS).
+- **Hosting en la Nube:** Alojamiento gratuito y seguro con certificado SSL (HTTPS) a través de GitHub Pages.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
-- **HTML5 & CSS3 moderno**
-- **JavaScript (Vanilla)**
-- **GitHub Actions & GitHub Pages** (o Cloudflare Pages)
+- **HTML5 & CSS3**
+- **GitHub Actions & GitHub Pages**
 
 ---
 
-## 🔄 Automatización del Despliegue
+## Automatización del Despliegue
 
-Cada vez que haces un cambio en el código y ejecutas:
+Cada vez que realizas un cambio en el código y ejecutas:
 
 ```bash
 git add .
@@ -37,10 +36,10 @@ git commit -m "Actualizar contenido"
 git push origin main
 ```
 
-El pipeline de GitHub Actions se activa automáticamente, empaqueta el contenido estático y publica la nueva versión en GitHub Pages en menos de 1 minuto.
+El pipeline de GitHub Actions se activa automáticamente y publica la nueva versión en GitHub Pages.
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 MIT
